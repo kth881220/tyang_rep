@@ -15,4 +15,5 @@ print("개수:", len(numbers))
 # 반복
 for n in numbers:
     print(n)
-
+    print(n * 2)
+    
